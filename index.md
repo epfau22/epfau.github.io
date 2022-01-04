@@ -1,5 +1,5 @@
 
-## Welcome to My Page Pages!
+## Welcome to My Page!
 
 ### I'm Emily. 
 I'm a student studying Computer Science with a minor in Political Science. 
