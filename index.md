@@ -1,17 +1,44 @@
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1ED47C;
+  color: white;
+  font-size: 30px;
+}
+
+/* Page Content */
+.content {padding:20px;}
 </style>
 </head>
 <body>
 
-<h1>Welcome to My Page!</h1>
-<p>I'm Emily. I am a student studying Computer Science with a minor in Political Science.</p>
+<div class="header">
+  <h1>Welcome to My Page!</h1>
+  <p>I'm Emily. I am a student studying Computer Science with a minor in Political Science.</p>
+</div>
+
+<div class="content">
+  <h1>Content</h1>
+  <p>Some content blablabla, some content blablabla.</p>
+  <p>Some content blablabla, some content blablabla.</p>
+  <p>Some content blablabla, some content blablabla.</p>
+</div>
 <div><a href="https://github.com/epfau22">Visit my github site</a></div>
+
 
 </body>
 </html>
