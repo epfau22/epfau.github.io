@@ -15,10 +15,11 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url('headerBackground.jpg');
   <!-- background: #1ED47C; -->
   color: white;
   font-size: 30px;
+  background-image: url('headerBackground.jpg');
+  background-size: contain;
 }
 
 /* Page Content */
