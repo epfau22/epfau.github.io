@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
 <title>Page Title</title>
@@ -15,7 +15,7 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url('headerBackground.jpg');
+  background: url('headerBackground.jpg');
   <!-- background: #1ED47C; -->
   color: white;
   font-size: 30px;
