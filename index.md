@@ -9,6 +9,7 @@
 body {
   font-family: Arial;
   margin: 0;
+  text="#ffffff"
 }
 
 /* Header/Logo Title */
@@ -19,14 +20,15 @@ body {
   color: white;
   font-size: 30px;
   background-image: url('headerBackground.jpg');
-  background-size: contain;
+  height: 2175
+  width: 5100
 }
 
 /* Page Content */
 .content {padding:20px;}
 </style>
 </head>
-<body>
+<body style="background-color: black;">
 
 <div class="header">
   <h1>Welcome to My Page!</h1>
