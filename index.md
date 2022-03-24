@@ -29,7 +29,7 @@ body {
 .content {padding:20px;}
 </style>
 </head>
-<body style="background-color: black" text="#ffffff">
+<body style="background-color: black; color:#ffffff">
 
 <div class="header">
   <h1>Welcome to My Page!</h1>
