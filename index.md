@@ -15,7 +15,7 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background: url('headerBackground.jpg');
+  background-image: url('headerBackground.jpg');
   <!-- background: #1ED47C; -->
   color: white;
   font-size: 30px;
