@@ -1,10 +1,21 @@
 
-## Welcome to My Page!
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
 
-### I'm Emily. 
-I'm a student studying Computer Science with a minor in Political Science. 
+<h1>Welcome to My Page!</h1>
+<p>I'm Emily. I am a student studying Computer Science with a minor in Political Science.</p>
+<div><a href="https://github.com/epfau22">Visit my github site</a></div>
 
-<a href="https://github.com/epfau22">Visit my github site</a>
+</body>
+</html>
+
 
 
 <!-- You can use the [editor on GitHub](https://github.com/epfau22/epfau.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
