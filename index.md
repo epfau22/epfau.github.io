@@ -4,6 +4,7 @@
 ### I'm Emily. 
 I'm a student studying Computer Science with a minor in Political Science. 
 
+<a href="https://github.com/epfau22">Visit my github site</a>
 
 
 <!-- You can use the [editor on GitHub](https://github.com/epfau22/epfau.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
