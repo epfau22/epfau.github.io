@@ -15,7 +15,7 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url('headerBackground.png');
+  background-image: url('headerBackground.jpg');
   <!-- background: #1ED47C; -->
   color: white;
   font-size: 30px;
@@ -34,8 +34,6 @@ body {
 
 <div class="content">
   <h1>Content</h1>
-  <p>Some content blablabla, some content blablabla.</p>
-  <p>Some content blablabla, some content blablabla.</p>
   <p>Some content blablabla, some content blablabla.</p>
 </div>
 <div><a href="https://github.com/epfau22">Visit my github site</a></div>
