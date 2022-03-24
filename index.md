@@ -9,7 +9,6 @@
 body {
   font-family: Arial;
   margin: 0;
-  text= #ffffff
 }
 
 /* Header/Logo Title */
@@ -17,12 +16,12 @@ body {
   padding: 60px;
   text-align: center;
   <!-- background: #1ED47C; -->
-  color: white;
   font-size: 30px;
   background-image: url('headerBackground.jpg');
   height: 2175
   width: 5100
-  background-size: contain
+  background-repeat: no-repeat;
+  background-size: 5100px 2175px
 }
 
 /* Page Content */
