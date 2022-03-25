@@ -17,9 +17,9 @@ body {
   text-align: center;
   background: #1ED47C;
   font-size: 30px;
-  background-image: url('headerBackground.jpg');
   color: #ffffff
-  <!-- height: 362px;
+  <!--background-image: url('headerBackground.jpg');
+  height: 362px;
   width: 850px; 
   background-repeat: no-repeat;
   background-size: 850px 362px; -->
