@@ -62,11 +62,10 @@ body {
 }
 /*each skill box*/
 .box {
-  width: 20px;
+  width: 100;
   color: black;
   background: #D4D4D4;
-  border: 1px solid #F3F3F3;
-  white-space:nowrap
+  border: 1px solid #969696;
 }
 
 /*Projects*/
