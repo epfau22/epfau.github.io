@@ -18,10 +18,10 @@ body {
   <!-- background: #1ED47C; -->
   font-size: 30px;
   background-image: url('headerBackground.jpg');
-  height: 2175px;
-  width: 5100px;
+  height: 217px;
+  width: 510px;
   background-repeat: no-repeat;
-  background-size: 5100px 2175px;
+  background-size: 400px 200px;
 }
 
 /* Page Content */
