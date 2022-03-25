@@ -62,7 +62,7 @@ body {
 }
 /*each skill box*/
 .box {
-  width: 100px;
+  width: 80px;
   color: black;
   background: #D4D4D4;
   border: 1px solid #969696;
@@ -82,10 +82,10 @@ body {
 
 
 
-<div class="header" style= "width: 100%;">
+<div class="header">
   <h1>Emily S Pfau</h1>
-  <a href="https://github.com/epfau22">github</a>
-  <a href="https://github.com/epfau22">LinkedIn</a>
+  <a style="font-size:30px;" href="https://github.com/epfau22">github</a>
+  <a style="font-size:30px;" href="www.linkedin.com/in/emily-pfau-411669186">LinkedIn</a>
 </div>
 
 <!-- short summary about me and what I am interested in -->
@@ -103,8 +103,26 @@ body {
 <!-- once clicked my my skills (computer lanagues and other things) I have done will be shown -->
 <button class="collapsible">Skills</button>
 <div class="skills">
-  <p class="box">skill 1</p>
-  <p class="box">skill 2</p>
+  <h2>Computer Languages</h2>
+  <div class="about">
+    <div class="column"><p class="box">skill 1</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+  </div>
+  <div class="about">
+    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+  </div>
+  <div class="about">
+    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">skill 2</p></div>
+  </div>                  
+  <h2>Other Skills</h2>
 </div>
 
 <!-- once clicked links to other pages that show my programs I have made will be shown -->
