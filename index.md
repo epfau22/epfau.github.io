@@ -36,6 +36,7 @@ body {
   columns: 100px 1;
   rows: 100px 2;
   text-align: center;
+  class="center"
   font-size: 20px;
 }
 
