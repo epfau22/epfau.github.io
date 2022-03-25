@@ -62,7 +62,7 @@ body {
 }
 /*each skill box*/
 .box {
-  width: 100px;
+  width: 120px;
   color: black;
   background: #D4D4D4;
   border: 1px solid #969696;
@@ -129,20 +129,20 @@ body {
     <div class="column"><p class="box">Wireshark</p></div>
     <div class="column"><p class="box">WebGL</p></div>
     <div class="column"><p class="box">HTC Vive</p></div>
-    <div class="column"><p class="box">Face to Face customer service</p></div>
+    <div class="column"><p class="box">LaTeX</p></div>
   </div>
   <div class="about">
     <div class="column"><p class="box">Adobe Photoshop</p></div>
-    <div class="column"><p class="box">Highly skilled in Unity</p></div>
+    <div class="column"><p class="box">WACOM Tablets</p></div>
     <div class="column"><p class="box">WordPress</p></div>
     <div class="column"><p class="box">Adobe Illustrator</p></div>
-    <div class="column"><p class="box">machine learning and Deep learning</p></div>
+    <div class="column"><p class="box">Blender</p></div>
   </div>
   <div class="about">
     <div class="column"><p class="box">creation of AI</p></div>
-    <div class="column"><p class="box">LaTeX</p></div>
-    <div class="column"><p class="box">WACOM Tablets</p></div>
-    <div class="column"><p class="box">Blender</p></div>
+    <div class="column"><p class="box">Face to Face customer service</p></div>
+    <div class="column"><p class="box">Highly skilled in Unity</p></div>
+    <div class="column"><p class="box">machine learning and Deep learning</p></div>
     <div class="column"><p class="box">Interacting in multicultural environment</p></div>
   </div> 
 </div>
