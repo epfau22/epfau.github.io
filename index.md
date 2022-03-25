@@ -65,6 +65,7 @@ body {
   color: black;
   background: #D4D4D4;
   border: 1px solid #F3F3F3;
+  white-space:nowrap
 }
 
 /*Projects*/
