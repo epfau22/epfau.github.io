@@ -15,20 +15,21 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  <!-- background: #1ED47C; -->
+  background: #1ED47C;
   font-size: 30px;
   background-image: url('headerBackground.jpg');
-  height: 362px;
-  width: 850px;
+  color: #ffffff
+  <!-- height: 362px;
+  width: 850px; 
   background-repeat: no-repeat;
-  background-size: 850px 362px;
+  background-size: 850px 362px; -->
 }
 
 /* Page Content */
 .content {padding:20px;}
 </style>
 </head>
-<body style="background-color: black; color:#ffffff">
+<body>
 
 <div class="header">
   <h1>Welcome to My Page!</h1>
