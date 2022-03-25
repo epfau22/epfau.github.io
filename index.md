@@ -43,27 +43,26 @@ body {
   font-size: 30px;
 }
 
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
 /*Skills*/
 .skills{
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
 }
 
 /*Projects*/
 .projects{
-  padding:20px;
-  columns: 100px 1;
-  rows: 100px 2;
-  text-align: center;
-  class="center"
-  font-size: 20px;
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
 }
 </style>
 </head>
@@ -91,6 +90,7 @@ body {
 <!-- once clicked links to other pages that show my programs I have made will be shown -->
 <button class="collapsible">Projects</button>
 <div class="projects">
+  <p>I will be puting my projects here </p>
 </div>
 
 <!-- other image -->
