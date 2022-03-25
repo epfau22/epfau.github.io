@@ -27,20 +27,25 @@ body {
 
 /* about Me */
 .about {
-    padding:20px;
+  display: flex;
+}
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /*collaspible*/
 .collapsible {
-  background-color: #FFFFFF;
-  color: black;
+  background-color: #777;
+  color: white;
   cursor: pointer;
-  padding: 40px;
+  padding: 18px;
   width: 100%;
   border: none;
-  text-align: center;
+  text-align: left;
   outline: none;
-  font-size: 30px;
+  font-size: 15px;
 }
 
 .active, .collapsible:hover {
@@ -78,8 +83,15 @@ body {
 
 <!-- short summary about me and what I am interested in -->
 <div class="about">
-  <p>Highly motivated, passionate computer scientist with a foundation in math, algorithmic logic, dynamic programming and leadership. Seeking to work in Cyber Security and/or Web Development.</p>
+  <div class="column" style="background-color:#FFFFF;">
+    <h2>About Me</h2>
+    <p>Highly motivated, passionate computer scientist with a foundation in math, algorithmic logic, dynamic programming and leadership. Seeking to work in Cyber Security and/or Web Development.</p>
+  </div>
+  <div class="column" style="background-color:#FFFFF;">
+    <p>picture here</p>
+  </div>
 </div>
+
 
 <!-- once clicked my my skills (computer lanagues and other things) I have done will be shown -->
 <button class="collapsible">Skills</button>
@@ -94,12 +106,28 @@ body {
 </div>
 
 <!-- other image -->
-<img src="headerBackground.jpg" alt="mind" class="center">
+<!-- <img src="headerBackground.jpg" alt="mind" class="center"> -->
 
 <!-- end -->
 <div><a href="https://github.com/epfau22">Visit my github site</a></div>
 
 
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
 </body>
 </html>
 
