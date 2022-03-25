@@ -133,15 +133,15 @@ body {
   </div>
   <div class="about">
     <div class="column"><p class="box">Adobe Photoshop</p></div>
+    <div class="column"><p class="box"></p>Adobe Illustrator</div>
     <div class="column"><p class="box">WACOM Tablets</p></div>
     <div class="column"><p class="box">WordPress</p></div>
-    <div class="column"><p class="box">Adobe Illustrator</p></div>
     <div class="column"><p class="box">Blender</p></div>
   </div>
   <div class="about">
     <div class="column"><p class="box">creation of AI</p></div>
-    <div class="column"><p class="box">Face to Face customer service</p></div>
     <div class="column"><p class="box">Highly skilled in Unity</p></div>
+    <div class="column"><p class="box">Face to Face customer service</p></div>
     <div class="column"><p class="box">machine learning and Deep learning</p></div>
     <div class="column"><p class="box">Interacting in multicultural environment</p></div>
   </div> 
@@ -150,7 +150,18 @@ body {
 <!-- once clicked links to other pages that show my programs I have made will be shown -->
 <button class="collapsible">Projects</button>
 <div class="projects">
-  <p>I will be puting my projects here </p>
+  <div class="about">
+    <div class="column">
+    <a href="https://github.com/epfau22">Project 1</a>
+    <p>This is my first project explanation </p>
+    </div>
+  </div>
+  <div class="about">
+    <div class="column">
+    <a href="https://github.com/epfau22">Project 2</a>
+    <p>This is my second project explanation</p>
+    </div>
+  </div>
 </div>
 
 <!-- other image -->
