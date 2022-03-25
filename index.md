@@ -35,6 +35,7 @@ body {
   padding:20px;
   columns: 100px 1;
   text-align: center;
+  font-size: 20px;
 }
 
 </style>
@@ -58,8 +59,8 @@ body {
 <!-- single column of links -->
 <div class="links;">
   <h1>Links</h1>
-  <a href="https://github.com/epfau22"> Skills</a>
-  <a href="https://github.com/epfau22"> Projects</a>
+  <div<a href="https://github.com/epfau22"> Skills</a></div>
+  <div<a href="https://github.com/epfau22"> Projects</a></div>
 <!-- <a href="default.asp"><img src="smiley.gif" alt="Contact Me" style="width:42px;height:42px;"></a> -->
 </div>
 
