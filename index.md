@@ -32,20 +32,20 @@ body {
 .column {
   flex: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  <!-- height: 300px; /* Should be removed. Only for demonstration */ -->
 }
 
 /*collaspible*/
 .collapsible {
-  background-color: #777;
-  color: white;
+  background-color: #E6E6E6;
+  color: black;
   cursor: pointer;
-  padding: 18px;
+  padding: 30px;
   width: 100%;
   border: none;
-  text-align: left;
+  text-align: center;
   outline: none;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .active, .collapsible:hover {
@@ -58,16 +58,22 @@ body {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
+  background-color: #F7F7F7;
+}
+/*each skill box*/
+.box {
+  color: black;
+  background: #D4D4D4;
+  border: 1px solid #F3F3F3;
 }
 
 /*Projects*/
 .projects{
-  padding: 0 18px;
+  padding: 0 80px;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
+  background-color: #F7F7F7;
 }
 </style>
 </head>
@@ -96,7 +102,8 @@ body {
 <!-- once clicked my my skills (computer lanagues and other things) I have done will be shown -->
 <button class="collapsible">Skills</button>
 <div class="skills">
-  <p>I will be puting my skills here </p>
+  <p class="box">skill 1</p>
+  <p class="box">skill 2</p>
 </div>
 
 <!-- once clicked links to other pages that show my programs I have made will be shown -->
