@@ -62,6 +62,7 @@ body {
 }
 /*each skill box*/
 .box {
+  width: 20px;
   color: black;
   background: #D4D4D4;
   border: 1px solid #F3F3F3;
