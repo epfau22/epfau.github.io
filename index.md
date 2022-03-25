@@ -15,7 +15,7 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background: #1ED47C;
+  background: #4FEAE7;
   font-size: 30px;
   color: #ffffff
   width: 100%;
@@ -45,13 +45,13 @@ body {
 <!-- picture -->
 
 <!-- single column of links -->
-<div style="text-align: center;"
-<a href="default.asp"><img src="smiley.gif" alt="Skills" style="width:42px;height:42px;"></a>
-<a href="default.asp"><img src="smiley.gif" alt="Projects" style="width:42px;height:42px;"></a>
+<div style="text-align: center;">
+<a href="https://github.com/epfau22" alt="Skills" class="center;"></a>
+<a href="https://github.com/epfau22" alt="Projects" class="center;"></a>
 <!-- <a href="default.asp"><img src="smiley.gif" alt="Contact Me" style="width:42px;height:42px;"></a> -->
 </div>
 <!-- other image -->
-
+<img src="headerBackground.jpg" alt="mind" class="center">
 
 <!-- end -->
 <div><a href="https://github.com/epfau22">Visit my github site</a></div>
