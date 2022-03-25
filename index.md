@@ -15,10 +15,9 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background: #4FEAE7;
+  background: #44DEDB;
   font-size: 30px;
   color: #ffffff
-  width: 100%;
   <!--background-image: url('headerBackground.jpg');
   height: 362px;
   width: 850px; 
@@ -28,11 +27,20 @@ body {
 
 /* Page Content */
 .content {padding:20px;}
+
+/*Links*/
+.links{
+  columns: 100px 1;
+  text-align: center;
+}
+
 </style>
 </head>
 <body>
 
-<div class="header">
+
+
+<div class="header" style= "width: 100%;">
   <h1>Welcome to My Page!</h1>
   <p>I'm Emily. I am a student studying Computer Science with a minor in Political Science.</p>
 </div>
@@ -45,9 +53,10 @@ body {
 <!-- picture -->
 
 <!-- single column of links -->
-<div style="text-align: center;">
-<a href="https://github.com/epfau22" alt="Skills" class="center;"></a>
-<a href="https://github.com/epfau22" alt="Projects" class="center;"></a>
+<div class="links;">
+  <h1>Links</h1>
+  <a href="https://github.com/epfau22" alt="Skills" class="center;"></a>
+  <a href="https://github.com/epfau22" alt="Projects" class="center;"></a>
 <!-- <a href="default.asp"><img src="smiley.gif" alt="Contact Me" style="width:42px;height:42px;"></a> -->
 </div>
 <!-- other image -->
