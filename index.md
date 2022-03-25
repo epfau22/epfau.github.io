@@ -66,6 +66,7 @@ body {
   color: black;
   background: #D4D4D4;
   border: 1px solid #969696;
+  text-align: center;
 }
 
 /*Projects*/
@@ -105,24 +106,45 @@ body {
 <div class="skills">
   <h2>Computer Languages</h2>
   <div class="about">
-    <div class="column"><p class="box">skill 1</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">Python</p></div>
+    <div class="column"><p class="box">HTML</p></div>
+    <div class="column"><p class="box">CSS</p></div>
+    <div class="column"><p class="box">HTML5</p></div>
   </div>
   <div class="about">
-    <div class="column"><p class="box">skill 2</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">C</p></div>
+    <div class="column"><p class="box">C++</p></div>
+    <div class="column"><p class="box">C#</p></div>
+    <div class="column"><p class="box">Java</p></div>
   </div>
   <div class="about">
-    <div class="column"><p class="box">skill 2</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
-    <div class="column"><p class="box">skill 2</p></div>
+    <div class="column"><p class="box">Swift</p></div>
+    <div class="column"><p class="box">JavaScript</p></div>
+    <div class="column"><p class="box">Assembly Language</p></div>
+    <div class="column"><p class="box">Haskell</p></div>
   </div>                  
   <h2>Other Skills</h2>
+  <div class="about">
+    <div class="column"><p class="box">Pytorch</p></div>
+    <div class="column"><p class="box">Wireshark</p></div>
+    <div class="column"><p class="box">WebGL</p></div>
+    <div class="column"><p class="box">HTC Vive</p></div>
+    <div class="column"><p class="box">Face to Face customer service</p></div>
+  </div>
+  <div class="about">
+    <div class="column"><p class="box">Adobe Photoshop</p></div>
+    <div class="column"><p class="box">Highly skilled in Unity</p></div>
+    <div class="column"><p class="box">WordPress</p></div>
+    <div class="column"><p class="box">Adobe Illustrator</p></div>
+    <div class="column"><p class="box">machine learning and Deep learning</p></div>
+  </div>
+  <div class="about">
+    <div class="column"><p class="box">creation of AI</p></div>
+    <div class="column"><p class="box">LaTeX</p></div>
+    <div class="column"><p class="box">WACOM Tablets</p></div>
+    <div class="column"><p class="box">Blender</p></div>
+    <div class="column"><p class="box">Interacting in multicultural environment</p></div>
+  </div> 
 </div>
 
 <!-- once clicked links to other pages that show my programs I have made will be shown -->
