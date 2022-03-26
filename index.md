@@ -72,7 +72,7 @@ body {
 
 /*Projects*/
 .projects{
-  padding: 0 80px;
+  padding: 0 100px;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
@@ -158,6 +158,10 @@ body {
     <div class="column"><p class="box">Face to Face customer service</p></div>
     <div class="column"><p class="box">machine learning and Deep learning</p></div>
     <div class="column"><p class="box">Interacting in multicultural environment</p></div>
+  </div> 
+  <div class="about">
+    <div class="column"><p class="box">Github</p></div>
+    <div class="column"><p class="box">Gatekeeper</p></div>
   </div> 
 </div>
 
