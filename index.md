@@ -13,7 +13,7 @@ body {
 
 /* Header/Logo Title */
 .header {
-  padding: 60px;
+  padding: 50px;
   text-align: center;
   background: #FFFFFF;
   font-size: 30px;
@@ -95,7 +95,7 @@ body {
     </div>
     <div class="column">
       <p>
-        <a style="font-size:30px;" href="www.linkedin.com/in/emily-pfau-411669186">
+        <a style="font-size:30px;" href="https://www.linkedin.com/in/emily-pfau-411669186/">
           <img style="width:50px;height:50px;" src="linked.jpg">
         </a>
       </p>
