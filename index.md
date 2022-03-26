@@ -102,7 +102,7 @@ body {
 
 
 <!-- once clicked my my skills (computer lanagues and other things) I have done will be shown -->
-<button class="collapsible">Skills</button>
+<button class="collapsible" style="font-size: 30px;">Skills</button>
 <div class="skills">
   <h2>Computer Languages</h2>
   <div class="about">
@@ -148,18 +148,19 @@ body {
 </div>
 
 <!-- once clicked links to other pages that show my programs I have made will be shown -->
-<button class="collapsible">Projects</button>
+<button class="collapsible" style="font-size: 30px;">Projects</button>
 <div class="projects">
   <div class="about">
+    <div class="column;" style="font-size: 30px;"><a href="https://github.com">Project 1</a></div>
     <div class="column">
-    <a class="column;" href="https://github.com/epfau22">Project 1</a>
-    <p class="column;" style="text-align: right;">This is my first project explanation </p>
+    
+      <p style="text-align: right;">This is my first project explanation </p>
     </div>
   </div>
   <div class="about">
+    <div class="column;" style="font-size: 30px;"><a href="https://github.com">Project 2</a></div>
     <div class="column">
-    <a class="column;" href="https://github.com/epfau22">Project 2</a>
-    <p class="column;" style="text-align: right;">This is my second project explanation</p>
+      <p style="text-align: right;">This is my second project explanation</p>
     </div>
   </div>
 </div>
@@ -189,5 +190,6 @@ for (i = 0; i < coll.length; i++) {
 </script>
 </body>
 </html>
+
 
 
