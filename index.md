@@ -96,8 +96,7 @@ body {
     </div>
     <div class="column">
       <p>
-        <a style="font-size:30px;" href="error">
-        <!-- <a style="font-size:30px;" href="https://www.linkedin.com/in/emily-pfau-411669186/"> -->
+        <a style="font-size:30px;" href="https://www.linkedin.com/in/emily-pfau-411669186/"> 
           <img style="width:35px;height:35px;" src="linked.jpg">
         </a>
       </p>
@@ -166,14 +165,14 @@ body {
 <button class="collapsible" style="font-size: 30px;">Projects</button>
 <div class="projects">
   <div class="about">
-    <div class="column;" style="font-size: 30px;"><a href="https://github.com">Project 1</a></div>
+    <div class="column;" style="font-size: 30px;"><a href="error">Project 1</a></div>
     <div class="column">
     
       <p style="text-align: right;">This is my first project explanation </p>
     </div>
   </div>
   <div class="about">
-    <div class="column;" style="font-size: 30px;"><a href="https://github.com">Project 2</a></div>
+    <div class="column;" style="font-size: 30px;"><a href="error">Project 2</a></div>
     <div class="column">
       <p style="text-align: right;">This is my second project explanation</p>
     </div>
