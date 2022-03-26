@@ -85,16 +85,21 @@ body {
 
 <div class="header">
   <h1>Emily S Pfau</h1>
-  <p>
-    <a style="font-size:30px;" href="https://github.com/epfau22">github</a>
-    <img style="width:60px;height:60px;" src="git.jpg">
-  </p>
-  <p>
-    <a style="font-size:30px;" href="www.linkedin.com/in/emily-pfau-411669186">LinkedIn</a>
-    <img style="width:60px;height:60px;" src="link.jpg">
-  </p>
+  <div class="about">
+    <div class="column">
+      <p>
+        <a style="font-size:30px;" href="https://github.com/epfau22"></a>
+        <img style="width:50px;height:50px;" src="git.jpg">
+      </p>
+    </div>
+    <div class="column">
+      <p>
+        <a style="font-size:30px;" href="www.linkedin.com/in/emily-pfau-411669186"></a>
+        <img style="width:50px;height:50px;" src="link.jpg">
+      </p>
+    </div>
+  </div>
 </div>
-
 <!-- short summary about me and what I am interested in -->
 <div class="about">
   <div class="column" style="background-color:#FFFFF;">
