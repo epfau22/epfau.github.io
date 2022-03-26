@@ -162,6 +162,8 @@ body {
   <div class="about">
     <div class="column"><p class="box">Github</p></div>
     <div class="column"><p class="box">Gatekeeper</p></div>
+    <div class="column"><p class="box"></p></div>
+    <div class="column"><p class="box"></p></div>
   </div> 
 </div>
 
