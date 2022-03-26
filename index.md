@@ -96,7 +96,7 @@ body {
     <p>Highly motivated, passionate computer scientist with a foundation in math, algorithmic logic, dynamic programming and leadership. Seeking to work in Cyber Security and/or Web Development.</p>
   </div>
   <div class="column" style="background-color:#FFFFF;">
-    <img src="pucResume.pdg" width="500" height="600">
+    <img src="picResume.jpg" width="500" height="600">
   </div>
 </div>
 
