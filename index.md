@@ -13,7 +13,7 @@ body {
 
 /* Header/Logo Title */
 .header {
-  padding: 50px;
+  padding: 40px;
   text-align: center;
   background: #FFFFFF;
   font-size: 30px;
@@ -62,6 +62,7 @@ body {
 }
 /*each skill box*/
 .box {
+  border-radius: 25px;
   width: 120px;
   color: black;
   background: #D4D4D4;
@@ -89,14 +90,14 @@ body {
     <div class="column">
       <p>
         <a style="font-size:30px;" href="https://github.com/epfau22">
-          <img style="width:50px;height:50px;" src="git.jpg">
+          <img style="width:40px;height:40px;" src="git.jpg">
         </a>
       </p>
     </div>
     <div class="column">
       <p>
         <a style="font-size:30px;" href="https://www.linkedin.com/in/emily-pfau-411669186/">
-          <img style="width:50px;height:50px;" src="linked.jpg">
+          <img style="width:40px;height:40px;" src="linked.jpg">
         </a>
       </p>
     </div>
