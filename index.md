@@ -88,14 +88,16 @@ body {
   <div class="about">
     <div class="column">
       <p>
-        <a style="font-size:30px;" href="https://github.com/epfau22"></a>
-        <img style="width:50px;height:50px;" src="git.jpg">
+        <a style="font-size:30px;" href="https://github.com/epfau22">
+          <img style="width:50px;height:50px;" src="git.jpg">
+        </a>
       </p>
     </div>
     <div class="column">
       <p>
-        <a style="font-size:30px;" href="www.linkedin.com/in/emily-pfau-411669186"></a>
-        <img style="width:50px;height:50px;" src="link.jpg">
+        <a style="font-size:30px;" href="www.linkedin.com/in/emily-pfau-411669186">
+          <img style="width:50px;height:50px;" src="link.jpg">
+        </a>
       </p>
     </div>
   </div>
