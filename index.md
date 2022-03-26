@@ -152,13 +152,13 @@ body {
 <div class="projects">
   <div class="about">
     <div class="column">
-    <a href="https://github.com/epfau22">Project 1</a>
+    <a class="column;" href="https://github.com/epfau22">Project 1</a>
     <p class="column;" style="text-align: right;">This is my first project explanation </p>
     </div>
   </div>
   <div class="about">
     <div class="column">
-    <a href="https://github.com/epfau22">Project 2</a>
+    <a class="column;" href="https://github.com/epfau22">Project 2</a>
     <p class="column;" style="text-align: right;">This is my second project explanation</p>
     </div>
   </div>
