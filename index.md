@@ -96,7 +96,7 @@ body {
     <div class="column">
       <p>
         <a style="font-size:30px;" href="www.linkedin.com/in/emily-pfau-411669186">
-          <img style="width:50px;height:50px;" src="link.jpg">
+          <img style="width:50px;height:50px;" src="linked.jpg">
         </a>
       </p>
     </div>
