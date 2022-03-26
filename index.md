@@ -18,8 +18,8 @@ body {
   background: #FFFFFF;
   font-size: 30px;
   color: black;
+  height: 200px;
   <!--background-image: url('headerBackground.jpg');
-  height: 362px;
   width: 850px; 
   background-repeat: no-repeat;
   background-size: 850px 362px; -->
@@ -62,8 +62,8 @@ body {
 }
 /*each skill box*/
 .box {
-  border-radius: 15px;
-  width: 125px;
+  border-radius: 10px;
+  width: 130px;
   color: black;
   background: #D4D4D4;
   border: 1px solid #969696;
@@ -147,7 +147,7 @@ body {
   </div>
   <div class="about">
     <div class="column"><p class="box">Adobe Photoshop</p></div>
-    <div class="column"><p class="box"></p>Adobe Illustrator</div>
+    <div class="column"><p class="box">Adobe Illustrator</p></div>
     <div class="column"><p class="box">WACOM Tablets</p></div>
     <div class="column"><p class="box">WordPress</p></div>
     <div class="column"><p class="box">Blender</p></div>
