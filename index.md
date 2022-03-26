@@ -18,7 +18,7 @@ body {
   background: #FFFFFF;
   font-size: 30px;
   color: black;
-  height: 200px;
+  height: 220px;
   <!--background-image: url('headerBackground.jpg');
   width: 850px; 
   background-repeat: no-repeat;
@@ -90,14 +90,15 @@ body {
     <div class="column">
       <p>
         <a style="font-size:30px;" href="https://github.com/epfau22">
-          <img style="width:40px;height:40px;" src="git.jpg">
+          <img style="width:35px;height:35px;" src="git.jpg">
         </a>
       </p>
     </div>
     <div class="column">
       <p>
-        <a style="font-size:30px;" href="https://www.linkedin.com/in/emily-pfau-411669186/">
-          <img style="width:40px;height:40px;" src="linked.jpg">
+        <a style="font-size:30px;" href="error">
+        <!-- <a style="font-size:30px;" href="https://www.linkedin.com/in/emily-pfau-411669186/"> -->
+          <img style="width:35px;height:35px;" src="linked.jpg">
         </a>
       </p>
     </div>
