@@ -171,7 +171,7 @@ body {
 <button class="collapsible" style="font-size: 30px;">Projects</button>
 <div class="projects">
   <div class="about">
-    <div class="column;" style="font-size: 30px;"><a href="https://epfau22.github.io/epfau.github.io/HandwritingCNN/NN.md">Project 1</a></div>
+    <div class="column;" style="font-size: 30px;"><a href="project_1.html">Project 1</a></div>
     <div class="column">
     
       <p style="text-align: right;">This is my first project explanation </p>
