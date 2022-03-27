@@ -1,7 +1,5 @@
 <!-- handwriting recongition user interface -->
----
-permalink: /Project_1.html
----
+
 <!DOCTYPE html>
 <html>
 <body>
