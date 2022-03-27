@@ -2,15 +2,18 @@
 ---
 permalink: /Project_1.html
 ---
-
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>Running a Python script</title>
-        <?PHP
-        echo shell_exec("python interface.py");
-        ?>
-        </head>
-    <body>
-        <!-- BODY -->
-    </body>
+<body>
+
+<article>
+  <header>
+    <h1>A heading here</h1>
+    <p>Posted by John Doe</p>
+    <p>Some additional information here</p>
+  </header>
+  <p>Lorem Ipsum dolor set amet....</p>
+</article>
+
+</body>
 </html>
