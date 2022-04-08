@@ -1,8 +1,8 @@
 <!-- handwriting recongition user interface -->
 ---
+layout: page
 title: Project 1
-layout: template
-filename: HandwritingCNN/project_1.md 
+subtitle:
 <!-- permalink: /HandwritingCNN/project_1 -->
 ---
 
