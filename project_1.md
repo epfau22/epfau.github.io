@@ -1,7 +1,5 @@
 <!-- handwriting recongition user interface -->
 ---
-layout: page
-title: Project 1
 permalink: /project_1
 ---
 
@@ -11,7 +9,7 @@ permalink: /project_1
 
 <article>
   <header>
-    <h1>Project 1</h1>
+    <title>Page Title</title>
     <p>Posted by Emily</p>
     <p>NN</p>
   </header>
