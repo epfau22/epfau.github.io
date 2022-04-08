@@ -2,7 +2,6 @@
 ---
 layout: page
 title: Project 1
-subtitle:
 permalink: project_1
 ---
 
