@@ -1,6 +1,9 @@
 <!-- handwriting recongition user interface -->
 ---
-permalink: /HandwritingCNN/project_1
+title: Project 1
+layout: template
+filename: HandwritingCNN/project_1.md 
+<!-- permalink: /HandwritingCNN/project_1 -->
 ---
 
 <!DOCTYPE html>
