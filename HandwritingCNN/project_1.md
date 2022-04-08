@@ -9,11 +9,10 @@ permalink: /HandwritingCNN/project_1
 
 <article>
   <header>
-    <h1>A heading here</h1>
-    <p>Posted by John Doe</p>
-    <p>Some additional information here</p>
+    <h1>Project 1</h1>
+    <p>Posted by Emily</p>
+    <p>NN</p>
   </header>
-  <p>Lorem Ipsum dolor set amet....</p>
 </article>
 
 </body>
