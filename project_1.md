@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Project 1
-permalink: project_1
+permalink: /project_1
 ---
 
 <!DOCTYPE html>
