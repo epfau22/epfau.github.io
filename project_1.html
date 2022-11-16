@@ -1,17 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+html, body {
+    margin:0;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.submit {background-color: #9eefec;} /* blue */
+.clear {background-color: #9eefec;} /* blue */
+
+</style>
+
 <head>
     <meta charset="UTF-8">
     <title>Project_1</title>
 </head>
 <body>
 <h1>Project 1</h1>
-<canvas id="draw" width="800" height="800"></canvas>
-<style>
-    html, body {
-        margin:0;
-    }
-</style>
+<h1>CNN Read Handwriting</h1>
+<button onclick="submitText()" class="button submit">Submit</button>
+<button class="button clear">Clear</button>
+<input type="text" id="myText" value=""> <!--letter is added here when submitted-->
+<!--instructions on how to use -->
+<!--popup button that explains why this excists-->
+<canvas id="draw" width="400" height="400"></canvas>
+
 <script>
     const canvas = document.querySelector('#draw');
     // could be 3d, if you want to make a video game
@@ -48,6 +70,10 @@
     canvas.addEventListener('mousemove', draw);
     canvas.addEventListener('mouseup', () => isDrawing = false);
     canvas.addEventListener('mouseout', () => isDrawing = false);
+
+    function submitText(){
+    //when submit button presses draw clears and NN predicts the letter written
+    }
 </script>
 </body>
 </html>
